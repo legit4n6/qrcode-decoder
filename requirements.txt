@@ -1,0 +1,4 @@
+PyMuPDF
+pyzbar
+Pillow
+beautifulsoup4
